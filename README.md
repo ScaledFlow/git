@@ -1,1 +1,1 @@
-# git
+# skeleton-code
